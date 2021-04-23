@@ -1,0 +1,5 @@
+[0122/082506.022:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0122/102246.593:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[0122/102246.593:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0122/102246.593:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0122/102246.593:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
